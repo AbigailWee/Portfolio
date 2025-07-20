@@ -57,7 +57,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 🛒 [Amazon Customer Storyboard](https://github.com/AbigailWee/amazon-tableau-dashboard.git) | Data Visualization | Tableau & Canva | Created a storyboard to analyze Amazon's customer survey data, uncovering insights into purchasing behavior, demographics, and business opportunities. The goal was to understand preferences, identify growth areas, and propose strategies to improve the customer experience.|
+| 🛒 [Amazon Customer Storyboard](https://github.com/AbigailWee/amazon-tableau-storyboard.git) | Data Visualization | Tableau & Canva | Created a storyboard to analyze Amazon's customer survey data, uncovering insights into purchasing behavior, demographics, and business opportunities. The goal was to understand preferences, identify growth areas, and propose strategies to improve the customer experience.|
 
 ---
 
